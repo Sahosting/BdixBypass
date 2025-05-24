@@ -18,19 +18,19 @@ After making changes:
 ## 🏛 Managing BDIX Proxy Service
 
 ```
-service bdix start
+### Start BDIX Proxy Bypass
 ```
 ```
-service bdix stop
+### Stop BDIX Proxy Bypass
 ```
 ```
-service bdix restart
+### Restart BDIX Proxy Bypass
 ```
 ```
-service bdix enable
+### Enable BDIX Auto Boot-Start
 ```
 ```
-service bdix disable
+### Disable BDIX Auto Boot-Start
 ```
 ---
 ## ❌ Uninstalling BDIX from OpenWRT
