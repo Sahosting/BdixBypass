@@ -16,6 +16,7 @@ vi /etc/bdix.conf
 ```
 
 After making changes:
+- Press `Ins` button then type and edit
 - Press `Esc`, then type `:wq` to **save & exit**.
 - Type `:q!` to **exit without saving**.
 
