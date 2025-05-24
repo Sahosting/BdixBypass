@@ -14,7 +14,9 @@ After making changes:
 - Type `:q!` to **exit without saving**.
   
 ```
-
+```
+:wq
+```
 ## 🏛 Managing BDIX Proxy Service
 
 ```
