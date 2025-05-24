@@ -28,6 +28,23 @@ After making changes:
 
 ---
 
+## After making changes:
+- Press `Esc`, then type `:wq` to **save & exit**.
+- Type `:q!` to **exit without saving**.
+
+```
+Esc
+```
+:wq
+```
+
+After making changes:
+- Press `Esc`, then type `:wq` to **save & exit**.
+- Type `:q!` to **exit without saving**.
+
+
+---
+
 ## 🏛 Managing BDIX Proxy Service
 
 
