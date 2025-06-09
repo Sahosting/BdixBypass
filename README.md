@@ -4,7 +4,7 @@
 ## 🚀 BDIX Proxy Service Installation
 
 ```
-cd /tmp && wget https://github.com/emonbhuiyan/BDIX-OpenWRT/raw/main/install.sh && chmod +x install.sh && clear && sh install.sh && rm install.sh
+cd /tmp && wget https://github.com/Sahosting/BdixBypass/raw/main/install.sh && chmod +x install.sh && clear && sh install.sh && rm install.sh
 ```
 
 ---
